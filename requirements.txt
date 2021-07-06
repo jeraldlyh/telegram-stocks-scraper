@@ -1,0 +1,6 @@
+google
+pytz
+pyTelegramBotAPI
+selenium
+fake_useragent
+python-dotenv

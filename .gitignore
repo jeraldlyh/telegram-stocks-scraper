@@ -1,0 +1,6 @@
+id_rsa
+id_rsa.pub
+config.py
+**/__pycache__
+debug.log
+.vscode/*

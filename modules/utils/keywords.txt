@@ -1,0 +1,11 @@
+acquisition
+bullish
+bull
+IPO
+merger
+bearish
+acquire
+rally
+rallying
+merge
+stock(.?)split
